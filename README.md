@@ -31,7 +31,7 @@ Run the container:
 
 docker run -dp 3000:3000 getting-started-app
 
-Access the application at:
+Accessed the application at:
 
 http://localhost:3000
 Learning Outcomes
